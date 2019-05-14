@@ -1,0 +1,16 @@
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\bin\Release\netcoreapp2.1\EmptyBot1.deps.json
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\bin\Release\netcoreapp2.1\EmptyBot1.runtimeconfig.json
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\bin\Release\netcoreapp2.1\EmptyBot1.runtimeconfig.dev.json
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\bin\Release\netcoreapp2.1\EmptyBot1.dll
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\bin\Release\netcoreapp2.1\EmptyBot1.pdb
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\obj\Release\netcoreapp2.1\EmptyBot1.csprojAssemblyReference.cache
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\obj\Release\netcoreapp2.1\EmptyBot1.csproj.CoreCompileInputs.cache
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\obj\Release\netcoreapp2.1\EmptyBot1.RazorAssemblyInfo.cache
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\obj\Release\netcoreapp2.1\EmptyBot1.RazorAssemblyInfo.cs
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\obj\Release\netcoreapp2.1\EmptyBot1.AssemblyInfoInputs.cache
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\obj\Release\netcoreapp2.1\EmptyBot1.AssemblyInfo.cs
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\obj\Release\netcoreapp2.1\EmptyBot1.RazorTargetAssemblyInfo.cache
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\obj\Release\netcoreapp2.1\EmptyBot1.dll
+C:\Users\jasarkar\Source\Repos\EmptyBot1\EmptyBot1\obj\Release\netcoreapp2.1\EmptyBot1.pdb
